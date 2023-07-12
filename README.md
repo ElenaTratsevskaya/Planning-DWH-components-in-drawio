@@ -16,23 +16,27 @@ Creation of logical, physical data model, ETL process mapping and technical spec
 Данные о возвратах находятся в CRM-системе в таблице «Возвраты»
 
 
-В ходе решения задачи:
+**В ходе решения задачи:**
 1. Построена логическая и физическая модель данных Primary Data Layer, Core Data Layer, Data Mart Layer в нотации 3 NF.
 Инструменты: draw.io (блок фигур «Сущность-связь»)
 
+Логическая модель данных
 ![10](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/ba7756c9-7aa9-4f86-91f4-50099088a8a4)
 
-Фрагмент. Core Data Layer
-![02](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/a9aaaef3-6e8d-4319-9aa5-5c26631db06a) 
+Логическая модель данных. Фрагмент. Core Data Layer
+![02](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/ed0f94a5-415b-4612-be16-0e7b5e1ecd26)
 
 Фрагмент. Логическая модель данных Data Mart Layer составлена в нотации “Снежинка”.
 ![03](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/4cd65eac-245e-42c8-b957-321c24181cdd)
 
+Физическая модель данных
 ![11](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/e48f7e9b-d57b-41bb-bbd5-10c77b1d6dfe)
 
-Фрагмент. Core Data Layer
-![05](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/1852560e-b514-4858-9dae-09362de3f9d9)
+Физическая модель данных. Фрагмент. Core Data Layer
+![22](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/a77035a9-396c-46e7-8442-a191dc164c5d)
 
+Физическая модель данных. Фрагмент. Data Mart Layer
+![23](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/965ead55-fc7a-4e9e-a3b6-7e46fd92eae0)
 
 2. Сформирована техническая спецификация Primary Data Layer, Core Data Layer, Data Mart Layer,
 где описаны все системы-источники, таблицы с их атрибутами и их свойства.
