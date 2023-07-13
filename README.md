@@ -16,8 +16,8 @@ Creation of logical, physical data model, ETL process mapping and technical spec
 Данные о возвратах находятся в CRM-системе в таблице «Возвраты»
 
 
-**В ходе решения задачи:**
-1. Построена логическая и физическая модель данных Primary Data Layer, Core Data Layer, Data Mart Layer в нотации 3 NF.
+**В ходе решения задачи:**<br>
+**1**. Построена логическая и физическая модель данных Primary Data Layer, Core Data Layer, Data Mart Layer в нотации 3 NF.
 Инструменты: draw.io (блок фигур «Сущность-связь»)
 
 Логическая модель данных
@@ -38,10 +38,13 @@ Creation of logical, physical data model, ETL process mapping and technical spec
 Физическая модель данных. Фрагмент. Data Mart Layer
 ![23](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/965ead55-fc7a-4e9e-a3b6-7e46fd92eae0)
 
-2. Сформирована техническая спецификация Primary Data Layer, Core Data Layer, Data Mart Layer,
-где описаны все системы-источники, таблицы с их атрибутами и их свойства.
+**2**. Сформирована техническая спецификация Primary Data Layer, Core Data Layer, Data Mart Layer,
+где описаны все системы-источники, таблицы с их атрибутами и их свойства.<br>
+[Техническая спецификация](https://docs.google.com/spreadsheets/d/1rmjF3JnWS4qaNOHGLw4pU8uCdbpPnQrhwlYntRFxiyw/edit#gid=381670597)
+представлена в Гугл-таблицах, всё на отдельных листах, листы подписаны: Primary Data Layer, Core Data Layer, Data Mart Layer,
+навигация по цвету и соотвествует контурам схемы и заливке под заголовком в моделях данных.
 
-3. Построена схема ETL процесса на базе технических спецификаций Raw Data Layer, Core Data Layer и Data Mart Layer.
+**3**. Построена схема ETL процесса на базе технических спецификаций Raw Data Layer, Core Data Layer и Data Mart Layer.
    
 ![07](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/9681fce0-d74c-4672-8ee3-11064478265f)
 
