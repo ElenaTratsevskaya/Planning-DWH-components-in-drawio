@@ -21,22 +21,24 @@ Creation of logical, physical data model, ETL process mapping and technical spec
 Инструменты: draw.io (блок фигур «Сущность-связь»)
 
 Логическая модель данных
-![10](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/ba7756c9-7aa9-4f86-91f4-50099088a8a4)
+![01_ЛМ_all](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/585560d2-964d-45ab-bbb0-f8264159d274)
 
 Логическая модель данных. Фрагмент. Core Data Layer
-![02](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/ed0f94a5-415b-4612-be16-0e7b5e1ecd26)
+![01_ЛМ_CDL](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/315f9eee-e7a8-45bb-9f55-8930d8967e79)
 
 Фрагмент. Логическая модель данных Data Mart Layer составлена в нотации “Снежинка”.
-![03](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/4cd65eac-245e-42c8-b957-321c24181cdd)
+![01_ЛМ_PDL](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/e7bce599-42bf-4968-bf45-d8605e4820f8)
+
 
 Физическая модель данных
-![11](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/e48f7e9b-d57b-41bb-bbd5-10c77b1d6dfe)
+![01_ФМ_all](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/210b0766-7eb1-4e06-92a8-937544b82191)
 
 Физическая модель данных. Фрагмент. Core Data Layer
-![22](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/a77035a9-396c-46e7-8442-a191dc164c5d)
+![01_ФМ_CDL](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/bfaca12b-2b2c-40db-87fe-66b653ef356c)
 
 Физическая модель данных. Фрагмент. Data Mart Layer
-![23](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/965ead55-fc7a-4e9e-a3b6-7e46fd92eae0)
+![01_ФМ_DML](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/aea7f95a-4686-4a31-80a5-e90f62128f47)
+
 
 **2**. Сформирована техническая спецификация Primary Data Layer, Core Data Layer, Data Mart Layer,
 где описаны все системы-источники, таблицы с их атрибутами и их свойства.<br>
@@ -45,8 +47,9 @@ Creation of logical, physical data model, ETL process mapping and technical spec
 навигация по цвету и соотвествует контурам схемы и заливке под заголовком в моделях данных.
 
 **3**. Построена схема ETL процесса на базе технических спецификаций Raw Data Layer, Core Data Layer и Data Mart Layer.
-   
-![07](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/9681fce0-d74c-4672-8ee3-11064478265f)
+![02](https://github.com/ElenaTratsevskaya/Planning-DWH-components-in-drawio/assets/110056199/6f0f0891-567b-4d94-8078-0a270daad4af)
+
+
 
 
 
